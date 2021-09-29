@@ -18,7 +18,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution on FEM](https://www.frontendmentor.io/solutions/suggestions-would-be-appreciated-lR0SBG8e2)
 - Live Site URL: [Live Site](https://rutc9.github.io/FEM-social-media-card/)
 
 ### Built with
@@ -30,4 +30,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Author
 
 - Frontend Mentor - [@RutC9](https://www.frontendmentor.io/profile/RutC9)
-"# FEM-social-media-card" 
+
